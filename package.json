@@ -1,7 +1,7 @@
 {
-  "name": "am_strategic_solutions_ui",
+  "name": "quick-start-react-app",
   "version": "0.1.0",
-  "description": "Client for API projects manager.",
+  "description": "This is a basic Webpack configuration to get started quickly to create web applications with React.",
   "main": "server.js",
   "scripts": {
     "build": "npm run clean && webpack --watch --config webpack.dev.js",

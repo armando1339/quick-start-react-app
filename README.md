@@ -10,7 +10,7 @@ Clone the project in your local.
 git clone https://github.com/armando1339/quick-start-react-app.git
 ```
 
-then
+Then
 
 ```
 npm install
