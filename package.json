@@ -11,7 +11,7 @@
     "clean": "rimraf ./dist"
   },
   "author": "Armando Alejandre <armando1339@gmail.com> (https://github.com/armando1339/)",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "webpack-dev-server": "^2.8.2"

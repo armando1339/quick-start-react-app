@@ -10,11 +10,13 @@ Clone the project in your local.
 git clone https://github.com/armando1339/quick-start-react-app.git
 ```
 
-Then
+Then.
 
 ```
 npm install
 ```
+
+Change the name of the application, the description in the package.js, or whatever you want to change.
 
 ## Usage
 
@@ -34,7 +36,7 @@ Inside the folder run the following command:
 heroku create
 ```
 
-Then push to Heroku the project using GIT
+Then push to Heroku the project using Git.
 
 ```
 git push heroku master
