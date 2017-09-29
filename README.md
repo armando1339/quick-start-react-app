@@ -2,6 +2,8 @@
 
 This is a basic Webpack configuration to get started quickly to create web applications with React. This appliction is ready to deploy to Heroku.
 
+You can see the example on Heroku [here](https://quick-start-react-app.herokuapp.com/).
+
 ## Download
 
 Clone the project in your local.

@@ -66,7 +66,7 @@ module.exports = {
     extractCSS,
     extractSASS,
     new HtmlWebpackPlugin({
-      title: 'My app',
+      title: 'Quick Start React App',
       filename: './index.html',
       hash: true,
       chunks: ['vendor', 'commons', 'app'],
