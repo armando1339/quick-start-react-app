@@ -1,0 +1,34 @@
+$grey: #2d3b4b;
+
+body {
+  background-color: $grey;
+  color: white;
+  font-family: sans-serif, Helvetica;
+  h1, p {
+    text-align: center;
+  }
+}
+
+.main {
+  margin: 0 auto;
+  padding: 140px 0;
+  width: 90%;
+  .logo{
+    background: url('./images/logos.png');
+    height: 80px;
+    margin: 0 auto;
+    width: 80px;
+  }
+  .title {
+    h1{
+      font-size: 33px;
+      margin: 20px 0 10px 0;
+    }
+  }
+  .introduction {
+    p {
+      font-size: 24px;
+      margin: 10px 0;
+    }
+  }
+}
