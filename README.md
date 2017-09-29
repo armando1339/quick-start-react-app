@@ -18,7 +18,7 @@ Then.
 npm install
 ```
 
-Change the name of the application, the description in the package.js, or whatever you want to change.
+Change the name of the application and the description in the package.js, or whatever you want to change.
 
 ## Usage
 
