@@ -1,8 +1,6 @@
 # Quick Start React App
 
-This is a basic Webpack configuration to get started quickly to create web applications with React. This appliction is ready to deploy to Heroku.
-
-You can see the example on Heroku [here](https://quick-start-react-app.herokuapp.com/).
+This is a basic Webpack configuration to get started quickly to create web applications with React. This appliction is already to deploy to Heroku. You can see the example on [Heroku](https://quick-start-react-app.herokuapp.com/).
 
 ## Download
 
@@ -18,8 +16,6 @@ Then.
 npm install
 ```
 
-Change the name of the application and the description in the package.js, or whatever you want to change.
-
 ## Usage
 
 To start developing run:
@@ -28,7 +24,7 @@ To start developing run:
 npm run buildserver
 ```
 
-Once you have run the command, you can start developing your React application inside the "app" folder, or wherever you want.
+Once you have run the command, you can start developing your React.
 
 ## Deply to Heroku
 
@@ -56,4 +52,4 @@ heroku open
 
 ## License
 
-[MIT](https://opensource.org/licenses/MIT) License, Copyright (c) 2017 Armando Alejandre
+[MIT](https://opensource.org/licenses/MIT)
